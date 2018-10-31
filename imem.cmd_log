@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Intel Core i3/Desktop/UNI/5 SEMESTRE/SISTEMAS DIGITALES/CPU32BITS/imem.xst" -ofn "C:/Users/Intel Core i3/Desktop/UNI/5 SEMESTRE/SISTEMAS DIGITALES/CPU32BITS/imem.syr" 

@@ -1,0 +1,2 @@
+vhdl work "imem.vhd"
+vhdl work "tb_imem.vhd"
